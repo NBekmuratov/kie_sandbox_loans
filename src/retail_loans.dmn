@@ -489,17 +489,17 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_926EB9E9-A502-4082-A0D3-9BD985A88D0A" dmnElementRef="_926EB9E9-A502-4082-A0D3-9BD985A88D0A">
         <di:waypoint x="543.5" y="487.5"/>
-        <di:waypoint x="756.6499999999996" y="284.54999999999984"/>
+        <di:waypoint x="756.6499999999996" y="284.5499999999999"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_E685157F-F15B-421B-9721-F1849DF8BDE1" dmnElementRef="_E685157F-F15B-421B-9721-F1849DF8BDE1">
         <di:waypoint x="904.5" y="487"/>
-        <di:waypoint x="756.6499999999996" y="284.54999999999984"/>
+        <di:waypoint x="756.6499999999996" y="284.5499999999999"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_22E4FAC8-F231-4908-BF49-75FE06A16763" dmnElementRef="_22E4FAC8-F231-4908-BF49-75FE06A16763">
         <di:waypoint x="756" y="685"/>
         <di:waypoint x="756.0005440880369" y="437.79999999999984"/>
         <di:waypoint x="756.0005440880369" y="437.79999999999984"/>
-        <di:waypoint x="756.6499999999996" y="284.54999999999984"/>
+        <di:waypoint x="756.6499999999996" y="284.5499999999999"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
