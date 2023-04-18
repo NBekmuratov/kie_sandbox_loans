@@ -22,9 +22,6 @@
     <dmn:itemComponent id="_2101BA7D-47FA-4017-AE60-AE25440ECA3E" name="Type" isCollection="false">
       <dmn:typeRef>ProductTypes</dmn:typeRef>
     </dmn:itemComponent>
-    <dmn:itemComponent id="_700AA285-D834-4519-B756-18FE9D657D80" name="Insert a name" isCollection="false">
-      <dmn:typeRef>Any</dmn:typeRef>
-    </dmn:itemComponent>
     <dmn:itemComponent id="_45F25259-D6DF-4FB9-B8D3-107765E4B3F5" name="Term" isCollection="false">
       <dmn:typeRef>number</dmn:typeRef>
     </dmn:itemComponent>
@@ -410,7 +407,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="871.9205607476636" y="635" width="154" height="99"/>
+        <dc:Bounds x="868.9205607476636" y="635" width="154" height="99"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_1DA263CE-7F32-46D6-80FC-3CACB0B4E0EE" dmnElementRef="_1DA263CE-7F32-46D6-80FC-3CACB0B4E0EE" isCollapsed="false">
@@ -472,7 +469,7 @@ else "Insufficient"</dmn:text>
         <di:waypoint x="904.5" y="487"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_6E1A7954-7411-4FD8-A75C-4E26ED1FF2A6" dmnElementRef="_6E1A7954-7411-4FD8-A75C-4E26ED1FF2A6">
-        <di:waypoint x="948.9205607476636" y="684.5"/>
+        <di:waypoint x="945.9205607476636" y="684.5"/>
         <di:waypoint x="904.5" y="487"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_DA00B022-2567-4053-AAAF-E99726163E72" dmnElementRef="_DA00B022-2567-4053-AAAF-E99726163E72">
